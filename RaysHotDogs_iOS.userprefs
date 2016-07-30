@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="RaysHotdOGS/RaysHotdOGS.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="RaysHotdOGS/HotDogDetailViewController.cs" Line="22" Column="3" />
+      <File FileName="RaysHotdOGS/DataSources/HotDogDataSource.cs" Line="12" Column="53" />
+      <File FileName="RaysHotdOGS/HotDogTableViewController.cs" Line="43" Column="2" />
+      <File FileName="RaysHotdOGS/Cells/HotDogListCell.cs" Line="37" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs_iOS/RaysHotdOGS/HotDogTableViewController.cs" line="27" column="1" />
+      <Breakpoint file="/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs_iOS/RaysHotdOGS/HotDogDetailViewController.cs" line="34" column="1" />
+      <Breakpoint file="/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs_iOS/RaysHotdOGS/HotDogTableViewController.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RaysHotdOGS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2EE7D9B2-8529-4381-8E2C-3F4FB8ACC05F" />
+</Properties>
